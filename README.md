@@ -1,4 +1,4 @@
-# Flask_SocketIO Example #
+# Flask SocketIO Example #
 
 ## Dependence ##
 * Python 2 or 3
@@ -13,4 +13,4 @@ python ./scripts/main.py
 Open `http://localhost:5000`.
 
 ## Screenshot ##
-<img src="https://raw.githubusercontent.com/takiyu/flask_socketio_example/master/screenshots/img.png" width="500px">
+<img src="https://raw.githubusercontent.com/takiyu/flask-socketio-example/master/screenshots/img.png" width="500px">
